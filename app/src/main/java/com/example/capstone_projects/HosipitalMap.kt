@@ -11,5 +11,6 @@ class HosipitalMap : AppCompatActivity() {
 
         NaverMapSdk.getInstance(this).client =
             NaverMapSdk.NaverCloudPlatformClient("xsilryo4zj")
+
     }
 }
